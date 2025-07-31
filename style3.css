@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://i.pinimg.com/736x/df/b1/cb/dfb1cba1c7016c7c5241bd10a69cd563--best-street-food-markiplier.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h4{
+    background-color: blanchedalmond;
+    display: inline;
+}
+h1{
+    background-color: azure;
+    display: inline;
+}
+h2{
+    background-color: blanchedalmond;
+    display: inline;
+}
+h3{
+    background-color: azure;
+    display: inline;
+}
+blockquote{
+    background-color: azure;
+    display: inline;
+}
+p {
+    background-color: olive;
+    display: inline;
+}
